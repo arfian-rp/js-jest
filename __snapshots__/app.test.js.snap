@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Mock Functions Mock Implementations Custom Matchers 1`] = `
+[MockFunction mock Func] {
+  "calls": Array [
+    Array [
+      33,
+      33,
+    ],
+    Array [
+      4,
+      4,
+    ],
+  ],
+  "results": Array [
+    Object {
+      "type": "return",
+      "value": 1,
+    },
+    Object {
+      "type": "return",
+      "value": 1,
+    },
+  ],
+}
+`;
