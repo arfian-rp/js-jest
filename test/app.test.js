@@ -206,7 +206,7 @@ describe("Using Matchers", () => {
 });
 
 //Setup and Teardown
-describe("SetuWp and Teardown", () => {
+describe("Setup and Teardown", () => {
   //Repeating Setup For Many Tests
   describe("Repeating Setup For Many Tests", () => {
     beforeEach(() => {
